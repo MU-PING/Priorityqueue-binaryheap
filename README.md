@@ -1,4 +1,4 @@
-# PriorityQueue_BinaryHeap
+# priorityqueue-binaryheap
 ## 程式簡介
 ### 簡述
 * 透過Max( Min )Binary Heap 實作  Priority-Queue，屬於「資料結構」的實作
